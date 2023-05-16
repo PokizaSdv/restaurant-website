@@ -26,12 +26,12 @@
 }
 
 .navigation__links li a {
-    color: #311f09;
+    color: #31 1f 09 rgb(49, 31, 9);
     font-size: 14px;
 }
 
 #navigation__link {
-    color: #ff8a00;
+    color: #ff 8a 00 rgb(255, 138, 0);
 }
 /* .navigation__links li:first-child a {
     color: #ff8a00;
@@ -55,7 +55,7 @@
 .navigation__actions figure {
     height: 50px;
     width: 50px;
-    background-color: #ecf0f1;
+    background-color: #ec f0 f1 rgb(236, 240, 241);
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -90,8 +90,8 @@
     display: block;
     width: max-content;
     margin-bottom: 24px;
-    background-color: #ff8a0033;
-    color: #ff8a00;
+    background-color: #ff 8a 00 33 rgb(255, 138, 0, 51);
+    color: #ff 8a 00 rgb(255, 138, 0);
     font-size: 18px;
     border-radius: 123px;
     padding: 5px 20px;
@@ -99,7 +99,7 @@
 
 .hero-section__heading {
     margin-bottom: 24px;
-    color: #311f09;
+    color: #31 1f 09 rgb(49, 31, 9);
     font-size: 80px;
     font-weight: 600;
     line-height: 88px;
@@ -107,7 +107,7 @@
 
 .hero-section__description {
     margin-bottom: 50px;
-    color: #5c4529;
+    color: #5c 45 29 rgb(92, 69, 41);
     font-size: 20px;
 }
 
@@ -118,7 +118,7 @@
 /*Welcome Section */
 
 #welcome-section {
-    background-color: #3fc66e1a;
+    background-color: #3f c6 6e 1a rgb(63, 198, 110, 26);
 }
 
 .welcome-section__container {
@@ -143,16 +143,16 @@
 .welcome-section__right h2 {
     font-size: 60px;
     line-height: 70px;
-    color: #311f09;
+    color: #31 1f 09 rgb(49, 31, 9);
     margin-bottom: 50px;
 }
 
 .welcome-section__right h2 span {
-    color: #ff8a00;
+    color: #ff 8a 00 rgb(255, 138, 0);
 }
 
 .welcome-section__right p {
-    color: #5c4529;
+    color: #5c 45 29 rgb(92, 69, 41);
     font-size: 20px;
     line-height: 40px;
     margin-bottom: 40px;
@@ -168,7 +168,7 @@
     text-align: center;
     font-size: 60px;
     line-height: 70px;
-    color: #311f09;
+    color: #31 1f 09 rgb(49, 31, 9);
     margin-bottom: 50px;
 }
 
@@ -194,7 +194,7 @@
 .menu-section__price {
     font-size: 25px;
     line-height: 38px;
-    color: #311f09;
+    color: #31 1f 09 rgb(49, 31, 9);
     font-weight: 600;
 }
 
@@ -202,7 +202,7 @@
     width: calc((100% - 80px) / 3);
 
     padding: 35px 37px;
-    background-color: #d0ccc733;
+    background-color: #d0 cc c7 33 rgb(208, 204, 199, 51);
     border-radius: 70px;
 }
 
